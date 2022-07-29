@@ -1,7 +1,7 @@
 ## 1up Cup 2022
 ![](https://img.shields.io/badge/date-2022--07--29-0385B1.svg)
 
-![](https://raw.githubusercontent.com/OneupNetwork/1upCup2022/master/final_standings.jpg)
+![](https://raw.githubusercontent.com/OneupNetwork/1upCup2022/main/final_standings.jpg)
 
 ### Problems
 
